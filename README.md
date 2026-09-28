@@ -28,12 +28,3 @@
 
 </div>
 
-## Liên hệ
-
-Nếu bạn cần hỗ trợ cài đặt hoặc muốn góp ý để phần mềm ngày càng hoàn thiện hơn, xin vui lòng liên hệ:
-
-Email: hieptran262004@gmail.com
-Sdt : 0378263059
-
-Rất mong nhận được những đóng góp quý báu từ mọi người!
-
